@@ -25,7 +25,11 @@ public class Main extends Application {
 	public static void main(String[] args) {
 		System.out.println("Program has launched");
 		System.out.println("new branch print");
+<<<<<<< HEAD
 		System.out.println();
+=======
+		System.out.println("this is another test, however I don't know which branch this is being pushed too.");
+>>>>>>> e203986400cdd9eac62590a4ebe1decdc869c3f5
 		launch(args);
 	}
 }
